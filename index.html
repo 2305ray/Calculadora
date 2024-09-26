@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"/>
+    <title>Calculadora</title>
+</head>
+<body>
+    <div id="calculadora">
+        <div class="cima">
+            <h1 id="h1">Calculadora</h1>
+            <div id="resultado">ohjghg</div> 
+    
+            <table id="button">
+                <tr>
+                    <td><button class="botão">C</button></td>
+                    <td><button class="botão"><</button></td>
+                    <td><button class="botão">/</button></td>
+                    <td><button class="botão">X</button></td>
+                </tr>
+                <tr>
+                    <td><button onclick="inserir('7')" class="botão">7</button></td>
+                    <td><button onclick="inserir('8')" class="botão">8</button></td>
+                    <td><button onclick="inserir('9')" class="botão">9</button></td>
+                    <td><button class="botão">-</button></td>
+                </tr>
+                <tr>
+                    <td><button onclick="inserir('4')" class="botão">4</button></td>
+                    <td><button onclick="inserir('5')" class="botão">5</button></td>
+                    <td><button onclick="inserir('6')" class="botão">6</button></td>
+                    <td><button class="botão">+</button></td>
+                </tr>
+                <tr>
+                    <td><button onclick="inserir('1')" class="botão">1</button></td>
+                    <td><button onclick="inserir('2')" class="botão">2</button></td>
+                    <td><button onclick="inserir('3')" class="botão">3</button></td>
+                    <td rowspan="2"><button class="bot">=</button></td>
+                </tr>
+                <tr>
+                    <td colspan="2"><button onclick="inserir('0')" class="bott">0</button></td>
+                    <td><button class="botão">.</button></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    
+     
+<script src="script.js"></script>
+</body>
+</html>
