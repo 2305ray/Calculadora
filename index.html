@@ -10,36 +10,36 @@
     <div id="calculadora">
         <div class="cima">
             <h1 id="h1">Calculadora</h1>
-            <div id="res"></div> 
+            <div id="res"> </div> 
     
             <table id="button">
                 <tr>
                     <td><button onclick="clean()" class="botão">C</button></td>
-                    <td><button onclick="insert('<')"  class="botão"><</button></td>
-                    <td><button onclick="insert('/')"  class="botão">/</button></td>
-                    <td><button onclick="insert('x')"  class="botão">x</button></td>
+                    <td><button onclick="back()"  class="botão"><</button></td>
+                    <td><button onclick="inserir('/')"  class="botão">/</button></td>
+                    <td><button onclick="inserir('*')"  class="botão">x</button></td>
                 </tr>
                 <tr>
                     <td><button onclick="inserir('7')" class="botão">7</button></td>
                     <td><button onclick="inserir('8')" class="botão">8</button></td>
                     <td><button onclick="inserir('9')" class="botão">9</button></td>
-                    <td><button onclick="insert('-')"  class="botão">-</button></td>
+                    <td><button onclick="inserir('-')"  class="botão">-</button></td>
                 </tr>
                 <tr>
                     <td><button onclick="inserir('4')" class="botão">4</button></td>
                     <td><button onclick="inserir('5')" class="botão">5</button></td>
                     <td><button onclick="inserir('6')" class="botão">6</button></td>
-                    <td><button onclick="insert('+')"  class="botão">+</button></td>
+                    <td><button onclick="inserir('+')"  class="botão">+</button></td>
                 </tr>
                 <tr>
                     <td><button onclick="inserir('1')" class="botão">1</button></td>
                     <td><button onclick="inserir('2')" class="botão">2</button></td>
                     <td><button onclick="inserir('3')" class="botão">3</button></td>
-                    <td rowspan="2"><button onclick="insert('=')"  class="bot">=</button></td>
+                    <td rowspan="2"><button onclick="calcular('=')"  class="bot">=</button></td>
                 </tr>
                 <tr>
                     <td colspan="2"><button onclick="inserir('0')" class="bott">0</button></td>
-                    <td><button onclick="insert('.')" class="botão">.</button></td>
+                    <td><button onclick="inserir('.')" class="botão">.</button></td>
                 </tr>
             </table>
         </div>
