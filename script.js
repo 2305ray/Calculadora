@@ -1,7 +1,7 @@
 function inserir(num) {
     let numer = document.getElementById('res').innerHTML
     document.getElementById('res').innerHTML = numer + num
-  
+    
 }
 
 function clean() {
@@ -23,4 +23,9 @@ function calcular() {
          } else {
             document.getElementById('res').innerHTML = "Nada..."
          }
+
+}
+
+function focusDiv() {
+    document.getElementById('res').focus();
 }
