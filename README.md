@@ -22,7 +22,7 @@ Desenvolvimento de uma calculadora simples, com foco na implementação em **Jav
 <br>
 
 <div align="center">
-  <img alt="calculadora" src="https://github.com/2305ray/Calculadora" width="90%">
+  <img alt="calculadora" src="https://github.com/2305ray/Calculadora/blob/main/Calculadora.png" width="90%">
 </div>
 
    ---
