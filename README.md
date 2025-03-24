@@ -47,19 +47,15 @@ Este projeto foi desenvolvido com o objetivo de estudar JavaScript, priorizando 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/2305ray/Timer-ignite.git
+   git clone https://github.com/2305ray/Calculadora.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd devstage
+   cd Calculadora
    ```
-3. Instale as dependências:
+3. Abra o arquivo index.html no navegador:
    ```bash
-   npm install
-   ```
-4. Inicie o servidor de desenvolvimento:
-   ```bash
-   npm run dev
+   start index.html
    ```
 
 ---
