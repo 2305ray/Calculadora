@@ -1,8 +1,7 @@
 <h1 align="center"> Timer Ignite </h1>
 
 <p align="center">
-Criação de uma calculadora simples <br>
-O objetivo é criar uma calculadora com foco no JavaScript e não no layout
+Desenvolvimento de uma calculadora simples, com foco na implementação em **JavaScript**
 </p>
 
 
@@ -40,7 +39,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 💡 Projeto
 
-É um projeto desenvolvido para estudo de JavaScript, por isso, o foco foi no javaScript e não no layout. (Estava no inicio da aprendizagem de desenvolvivimento)
+Este projeto foi desenvolvido com o objetivo de estudar JavaScript, priorizando o funcionamento e a lógica da aplicação em vez do layout. Foi criado no início da minha jornada de aprendizado em desenvolvimento.
 
   ---
 
