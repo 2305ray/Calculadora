@@ -22,7 +22,7 @@ Desenvolvimento de uma calculadora simples, com foco na implementação em **Jav
 <br>
 
 <div align="center">
-  <img alt="timer" src="https://github.com/2305ray/Calculadora/blob/main/calculadora.png" width="90%">
+  <img alt="calculadora" src="https://github.com/2305ray/Calculadora" width="90%">
 </div>
 
    ---
@@ -39,7 +39,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 💡 Projeto
 
-Este projeto foi desenvolvido com o objetivo de estudar JavaScript, priorizando o funcionamento e a lógica da aplicação em vez do layout. Foi criado no início da minha jornada de aprendizado em desenvolvimento.
+Este projeto foi desenvolvido com o objetivo de estudar JavaScript, priorizando o funcionamento e a lógica da aplicação em vez do layout, por isso, utilizei o display flex ao invés do grid. Foi criado no início da minha jornada de aprendizado em desenvolvimento.
 
   ---
 
