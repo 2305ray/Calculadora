@@ -1,7 +1,7 @@
 <h1 align="center"> Calculadora </h1>
 
 <p align="center">
-Desenvolvimento de uma calculadora simples, com foco na implementação em **JavaScript**
+Desenvolvimento de uma calculadora simples, com foco na implementação em JavaScript
 </p>
 
 
