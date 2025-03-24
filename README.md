@@ -1,4 +1,4 @@
-<h1 align="center"> Timer Ignite </h1>
+<h1 align="center"> Calculadora </h1>
 
 <p align="center">
 Desenvolvimento de uma calculadora simples, com foco na implementação em **JavaScript**
@@ -22,7 +22,7 @@ Desenvolvimento de uma calculadora simples, com foco na implementação em **Jav
 <br>
 
 <div align="center">
-  <img alt="timer" src="https://github.com/2305ray/timer-ignite-3/blob/main/src/assets/Capa.png" width="90%">
+  <img alt="timer" src="https://github.com/2305ray/Calculadora/blob/main/calculadora.png" width="90%">
 </div>
 
    ---
@@ -42,15 +42,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 Este projeto foi desenvolvido com o objetivo de estudar JavaScript, priorizando o funcionamento e a lógica da aplicação em vez do layout. Foi criado no início da minha jornada de aprendizado em desenvolvimento.
 
   ---
-
-## 🎨 Layout
-
-### 💻 **Versão Desktop**
-<div align="center">
-  <img alt="Timer Ignite home" src="https://github.com/2305ray/Calculadora/blob/main/calculadora.png" width="48%">
-</div>
-
---- 
 
 ## 🛠 Como rodar o projeto
 
@@ -73,5 +64,5 @@ Este projeto foi desenvolvido com o objetivo de estudar JavaScript, priorizando 
 
 ---
 
-<p align="center"> Feito com ♥ Rocketseat </p>
+<p align="center"> Feito com ♥ </p>
 
