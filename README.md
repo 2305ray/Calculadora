@@ -10,7 +10,6 @@ Desenvolvimento de uma calculadora simples, com foco na implementação em JavaS
   
 [![Tecnologias](https://img.shields.io/badge/Tecnologias-purple?style=for-the-badge)](#-tecnologias)
 [![Projeto](https://img.shields.io/badge/Projeto-blue?style=for-the-badge)](#-projeto)
-[![Layout](https://img.shields.io/badge/Layout-red?style=for-the-badge)](#-layout)
 
 </div>
 
@@ -35,7 +34,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **JavaScript** 
 - **CSS** (Utilizei o display flex ao invés do grid)
   
-  ---
+---
 
 ## 💡 Projeto
 
