@@ -27,7 +27,7 @@ Desenvolvimento de uma calculadora simples, com foco na implementação em JavaS
 
    ---
   
-## 🖥️ Tecnologias
+## 🚀 Tecnologias
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
