@@ -1,63 +1,20 @@
-<h1 align="center"> Calculadora </h1>
+[README.md](https://github.com/user-attachments/files/32347716/README.md)
+# Calculadora
 
-<p align="center">
-Desenvolvimento de uma calculadora simples, com foco na implementação em JavaScript
-</p>
+Calculadora simples com as quatro operações básicas (soma, subtração, multiplicação e divisão), suporte a números decimais, botão de limpar (C) e de apagar o último caractere (<). O cálculo é feito avaliando a expressão digitada.
 
+## 🚀 Tecnologias utilizadas
 
+- HTML5
+- CSS3
+- JavaScript (vanilla)
 
-<div align="center">
-  
-[![Tecnologias](https://img.shields.io/badge/Tecnologias-purple?style=for-the-badge)](#-tecnologias)
-[![Projeto](https://img.shields.io/badge/Projeto-blue?style=for-the-badge)](#-projeto)
+## 📦 Como rodar
 
-</div>
+Como é um projeto estático (sem build), basta abrir o arquivo `index.html` diretamente no navegador, ou usar uma extensão como o Live Server no VSCode.
 
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000" >
-</p>
-
-<br>
-
-<div align="center">
-  <img alt="calculadora" src="https://github.com/2305ray/Calculadora/blob/main/Calculadora.png" width="90%">
-</div>
-
-   ---
-  
-## 🚀 Tecnologias
-
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
-
-- **HTML** 
-- **JavaScript** 
-- **CSS** (Utilizei o display flex ao invés do grid)
-  
----
-
-## 💡 Projeto
-
-Este projeto foi desenvolvido com o objetivo de estudar JavaScript, priorizando o funcionamento e a lógica da aplicação em vez do layout, por isso, utilizei o display flex ao invés do grid. Foi criado no início da minha jornada de aprendizado em desenvolvimento.
-
-  ---
-
-## 🛠 Como rodar o projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/2305ray/Calculadora.git
-   ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd Calculadora
-   ```
-3. Abra o arquivo index.html no navegador:
-   ```bash
-   start index.html
-   ```
-
----
-
-<p align="center"> Feito com ♥ </p>
-
+```bash
+git clone https://github.com/2305ray/Calculadora.git
+cd Calculadora
+# abra o index.html no navegador
+```
